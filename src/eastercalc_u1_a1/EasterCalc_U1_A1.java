@@ -1,7 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/* Hildana. M
+ * EasterCalc_U1_A1
+ * This program allows the user to determine when Easter happens for any year. 
+ * 
  */
 
 package eastercalc_u1_a1;
